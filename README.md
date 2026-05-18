@@ -42,7 +42,7 @@ every animation, a smile; every color, a feeling. 💫
 ---
 
 ## 💘 Author  
-**Balakrishna Maloth**  
+**Lokesh Kasarap**  
 🧑‍💻 A developer who believes love can also be coded.  
 
 ---
