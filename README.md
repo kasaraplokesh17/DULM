@@ -1,6 +1,6 @@
   # 💞 Love Proposal Website – "For Someone Special For you"  
   
-### 💝 Live Demo: [balamaloth.github.io/21121M4/](https://balamaloth.github.io/21121M4/)  
+### 💝 Live Demo: 
 
 ![Love](https://img.shields.io/badge/💖-Made%20With%20Love-pink?style=for-the-badge)
 ![HTML](https://img.shields.io/badge/HTML-5-orange?style=for-the-badge&logo=html5)
@@ -35,7 +35,7 @@ every animation, a smile; every color, a feeling. 💫
 ---
 
 ## 💕 How to View  
-1. Visit the live site 👉 [balamaloth.github.io/21121M4](https://balamaloth.github.io/21121M4/)  
+1. Visit the live site 👉
 2. Watch the magic unfold 💫  
 3. Share it with your special one ❤️  
 
